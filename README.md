@@ -6,6 +6,7 @@ FRONT-END SINGLE PAGE WEBSITE MADE USING HTML + CSS(BOOTSTRAP) + JS + JQUERY-PLU
 **Idea Credit: "Build a real-world website using HTML, CSS and JS" by Adil Ahmed, a 10.5 hours course.**
 
 **J-Query Plugins Used:-**
+
 **1. Counter-Up: -**
 
   __Counter-Up is a jQuery plugin that *animates* a number from zero (counting up towards it).__
